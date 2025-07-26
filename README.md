@@ -108,11 +108,6 @@ FastAPI auto-generates Swagger UI at /docs for testing and debugging.
 The ID is auto-incremented by the database.
 
 
-## 🎥 Demo
-**Screen Recording:**
-project-demo: <your_google_drive_link_here>
-
-
 ## 📁 Folder Structure
 app/
 │
